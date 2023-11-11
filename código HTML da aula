@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESTUDO hoje</title>
+    <script src="script.js" defer></script>
+    <link href="./CSS/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="countainer">
+        <h1>Home</h1>
+        <div class="boxs">
+            <div class="card">
+                <img src="http://lorempixel.com.br/500/400/?1" alt="">
+                <p>Lorem ipsum dolor ssdkjcndsjnc osdmcisldcjsdjc spdijcposkcaooqit amet co error deserunt! </p>
+                <a href="#">Veja mais</a>
+            </div>
+
+            <div class="card">
+                <img src="http://lorempixel.com.br/500/400/?1" alt="">
+                <p>Lorem ipsum dolor ssdkjcndsjnc osdmcisldcjsdjc spdijcposkcaooqit amet co error deserunt! </p>
+                <a href="#">Veja mais</a>
+            </div>
+        </div>
+
+        <div>
+          <details open>
+            <summary>Clique aqui</summary>
+            <ul>
+                <li>Loren 1</li>
+                <li>Loren 2</li>
+            </ul>
+          </details>
+        </div>
+    </div>
+
+</body>
+
+</html>
